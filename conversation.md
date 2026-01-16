@@ -1,0 +1,1 @@
+User has requested to migrate all files including shop.html, checkout.html, and admin.html from Replit project to GitHub.
